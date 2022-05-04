@@ -1,1 +1,1 @@
-# Unit4-04-PHP-Museum
+[![GitHub's Super Linter](https://github.com/CarolynWP/Unit4-04-PHP-Museum/actions/workflows/main.yml/badge.svg)](https://github.com/CarolynWP/Unit4-04-PHP-Museum/actions)

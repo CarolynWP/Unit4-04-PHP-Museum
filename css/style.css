@@ -1,0 +1,27 @@
+body {
+height: 100vh;
+	background: linear-gradient(
+		to bottom left,
+		#4a4130 0%,
+		#4a4130 20%,
+		#7f7766 20%,
+		#7f7766 40%,
+		#4a4130 40%,
+		#4a4130 60%,
+		#7f7766 60%,
+		#7f7766 80%,
+		#4a4130 80%,
+		#4a4130 100%
+	);
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	color: white;
+}
+
+.zoom {
+	zoom: 1.2;
+}
